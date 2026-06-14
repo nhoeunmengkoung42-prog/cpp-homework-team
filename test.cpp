@@ -2,8 +2,8 @@
 using namespace std;
 
 void myFunction() {
-    cout << "Hello from Mengkoung" << endl;
-    cout << "Hello from Phon Oudomkatiyuth" << endl;
+    cout << "Hello from Ouknha Mengkoung" << endl;
+    cout << "Hollo from Phon Oudomkatiyuth" << endl;
 }
 
 int main() {

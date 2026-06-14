@@ -2,7 +2,6 @@
 using namespace std;
 
 void myFunction() {
-    cout << "Hello from Mengkoung" << endl;
     cout << "Hello from Phon Oudomkatiyuth" << endl;
 }
 
